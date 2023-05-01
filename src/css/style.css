@@ -52,7 +52,7 @@ main:after {
 }
 
 .buttons .button.select {
-	background-color: #1d8346;
+	background-color: hsl(348, 83%, 47%)
 }
 
 .aside {
